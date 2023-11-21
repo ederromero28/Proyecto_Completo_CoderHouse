@@ -1,3 +1,4 @@
+/* eslint-disable jsx-a11y/anchor-is-valid */
 import facebookIcon from "../../assets/img/facebookIcon.png"
 import instagramIcon from "../../assets/img/instagramIcon.png"
 import whatsappIcon from "../../assets/img/whatsappIcon.png"
@@ -55,7 +56,7 @@ const Footer = () => {
                 </div>
                 <div className="text-center p-3" style={{ backgroundColor: "rgba(0, 0, 0, 0.2)" }}>
                     © 2022
-                    <a target="_blank" className="text-white copyright" href="https://github.com/ederromero28"> CoderHouse Eder RM.</a>
+                    <a target="_blank" className="text-white copyright">Ecommerce</a>
                 </div>
             </footer>
             }
